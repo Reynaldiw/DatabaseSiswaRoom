@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Database Siswa (Room)</string>
+    <string name="action_settings">Settings</string>
+    <string name="nama_kelas">Nama Kelas</string>
+    <string name="simpan">Simpan</string>
+    <string name="kelas">Kelas</string>
+    <string name="nama_wali">Nama Wali</string>
+    <string name="edit">Edit</string>
+    <string name="delete">delete</string>
+    <string name="update">Update</string>
+    <string name="error_message">Field Tidak Boleh Kosong</string>
+</resources>
